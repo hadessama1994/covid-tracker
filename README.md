@@ -7,7 +7,7 @@ This react application to create a page showing covid data worldwide and showing
 
 ### Live test [Live Test](https://polar-gorge-29795.herokuapp.com/)
 
-![Soft](https://i.imgur.com/U194DgD.png)
+![Soft](https://i.imgur.com/U194DgD.png?1)
 
 ---
 
